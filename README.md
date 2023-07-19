@@ -7,7 +7,7 @@ npm install
 npm run dev
 ```
 
-ให้นักศึกษาสร้างหน้าเว็บ frontend ที่แสดงหน้า Mockup (จำลอง) ของ Todo List App โดยใช้ความรู้เรื่อง React และการแบ่ง Component แบบพื้นฐาน
+ให้นักศึกษาสร้างหน้าเว็บ Todo List โดยใช้ความรู้เรื่อง Event Callback และการ Pass props ของ React
 
 [คลิกเพื่อดูรายละเอียด]()
 
