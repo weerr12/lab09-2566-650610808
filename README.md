@@ -1,6 +1,6 @@
 # Lab 09 : Todo List
 
-After cloning repository, open the project with VSCode and run the following commands in terminal:
+หลังจากการ Fork และ Clone repository แล้ว, ให้เปิดโฟลเดอร์ด้วย VSCode และรันคำสั่งใน terminal:
 
 ```bash
 npm install
